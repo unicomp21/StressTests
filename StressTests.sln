@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3Stress", "S3Stress\S3Stress.csproj", "{5792B724-7B51-4874-AC60-45D8D3A991A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{28389A9C-31EA-4BE6-8863-096A9739C303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5792B724-7B51-4874-AC60-45D8D3A991A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5792B724-7B51-4874-AC60-45D8D3A991A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5792B724-7B51-4874-AC60-45D8D3A991A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5792B724-7B51-4874-AC60-45D8D3A991A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28389A9C-31EA-4BE6-8863-096A9739C303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28389A9C-31EA-4BE6-8863-096A9739C303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28389A9C-31EA-4BE6-8863-096A9739C303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28389A9C-31EA-4BE6-8863-096A9739C303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
